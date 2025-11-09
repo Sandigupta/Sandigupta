@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hello folks! I'm Sandeep Gupta</h1>
 <h3 align="center">Full stack Developer</h3>
 
